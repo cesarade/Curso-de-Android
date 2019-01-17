@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">GeoQuiz</string>
+    <string name="capital_text">Quito la capital de Ecuado</string>
+    <string name="falso_button">Falso</string>
+    <string name="verdadero_button">Verdadero</string>
+    <string name="correcto_toast">Correcto!</string>
+    <string name="incorrecto_toast">Incorrecto!</string>
 </resources>

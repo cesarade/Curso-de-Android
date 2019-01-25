@@ -1,8 +1,18 @@
 <resources>
     <string name="app_name">GeoQuiz</string>
-    <string name="capital_text">Quito la capital de Ecuado</string>
     <string name="falso_button">Falso</string>
     <string name="verdadero_button">Verdadero</string>
     <string name="correcto_toast">Correcto!</string>
     <string name="incorrecto_toast">Incorrecto!</string>
+
+    <string name="siguiente_button">Siguiente</string>
+    <string name="atras_button">Atrás</string>
+
+    <string name="pregunta_1">Quito es la capital del Ecuador</string>
+    <string name="pregunta_2">Guayaquil es conocida como la Perla del Pacífico</string>
+    <string name="pregunta_3">Riobamba está ubicada en la Provincia de Pichincha</string>
+    <string name="pregunta_4">Cuenca es conocida por la ribera de su río Tomebamba y los productos artesanales</string>
+    <string name="pregunta_5">Manta está ubicada en la Provincia del Guayas</string>
+
+
 </resources>
